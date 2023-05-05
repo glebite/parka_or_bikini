@@ -17,6 +17,7 @@ I think this could be a good application for using react native.
 
 ### both paths:  
 * openweather api application key  [OpenWeather](https://home.openweathermap.org/)  
+  Once you get your key, don't copy it up to your repository - save it in a config file.  
 
 ### python:  
 * requests module  

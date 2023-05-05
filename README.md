@@ -16,7 +16,7 @@ I think this could be a good application for using react native.
 ## requirements:  
 
 ### both paths:  
-* openweather api application key  
+* openweather api application key  [[https://home.openweathermap.org/][OpenWeather]]  
 
 ### python:  
 * requests module  

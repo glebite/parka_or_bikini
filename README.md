@@ -15,10 +15,12 @@ I think this could be a good application for using react native.
 
 ## requirements:  
 
+### both paths:  
+* openweather api application key  
+
 ### python:  
 * requests module  
 * possibly curses  
 
 ### react native:  
 * learn how to code in it  ;)  
-
